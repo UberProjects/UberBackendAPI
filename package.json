@@ -1,0 +1,21 @@
+{
+  "name": "UberAPI",
+  "version": "1.0.0",
+  "description": "UberAPI",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:UberProjects/UberBackendAPI.git"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "UberCUTeam",
+  "license": "",
+  "dependencies": {
+    "express": "^4.13.3",
+    "request": "^2.67.0",
+    "querystring": "^0.2.0",
+    "oauth": "^0.9.14"
+  }
+}
