@@ -1,6 +1,5 @@
 var express = require('express'),
     request = require('request'),
-    qs = require('querystring'),
     OAuth = require('oauth'),
     qs = require('querystring');
 
